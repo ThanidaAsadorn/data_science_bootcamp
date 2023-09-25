@@ -21,3 +21,5 @@ I learned a lot of stuff related to data science skills.
 - Python proramming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn ...
