@@ -1,3 +1,5 @@
+# R programming project 2
+
 # Define the rule
 data <- c("rock", "paper", "scissor")
 bot <- sample(data, 1)
