@@ -1,3 +1,5 @@
+# R programming project 1
+
 # Define the pizza menu
 menu_id <- c(1, 2, 3, 4, 5, 6, 7)
 pizza_menu <- c("pizza magherita", "pizza con funghi", "pizza con prosciuto cotto", "pizza con prosciuto crudo", "pizza 4 cheese", "pizza pepperoni", "pizza con patatine fritte")
