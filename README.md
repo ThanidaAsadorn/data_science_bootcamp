@@ -1,15 +1,10 @@
-# data_science_bootcamp
-My data portfolio for data analyst role
-
-# heading 1
-## heading 2
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
+# Hello!
+My name is Da. I am an bachelor of arts graduate who seeks to learn new thing everyday.
+I joined data science bootcamp in order to understand more about the data world.
+I have learned so many things in the bootcamp.
+And here is my data portfolio for data analyst role.
 
 # What did I learn from this data bootcamp?
-I learned a lot of stuff related to data science skills.
 - Intro to data science
 - Spreadsheets
 - Database (SQL)
@@ -21,5 +16,3 @@ I learned a lot of stuff related to data science skills.
 - Python proramming
 - Essential Python for Data Analyst
 - Dashboard
-
-You can find me on LinkedIn ...
